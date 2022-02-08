@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :zap: I love programming, information security, and solving puzzles
+- :zap: I love programming, information security, Desiging and solving puzzles
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world
 <!-- - 📫 How to find me:  -->
